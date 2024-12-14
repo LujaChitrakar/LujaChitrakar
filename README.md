@@ -10,4 +10,4 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lujachitrakar&show_icons=true&locale=en&layout=compact" alt="lujachitrakar" /></p>
 
-<p align="center"><img align="center" src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lujachitrakar&theme=dark)](https://git.io/streak-stats)" alt="lujachitrakar" /></p>
+<p align="center"><img align="center" src="[https://github-readme-streak-stats.herokuapp.com?user=lujachitrakar&" alt="lujachitrakar" /></p>
