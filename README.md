@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luja Chitrakar</h1>
-<h3 align="center">A passionate frontend developer from Nepal with over a year of experience in building functional and responsive websites. Proficient in React.js, I specialize in crafting dynamic user interfaces and delivering seamless user experiences. Dedicated to learning and continuously improving, I am committed to turning ideas into impactful digital solutions.</h3>
+<h3 align="center">A passionate Rust developer.</h3>
 
 - 📫 How to reach me **lujachitrakar156@gmail.com**
 
