@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luja Chitrakar</h1>
 <h3 align="center">A passionate Rust developer.</h3>
-<h2 align="center">Working in Solana ,Eth , Rust, Zero Knowledge Protocol.</h2>
-<h2 align="center">Has proficiency in Rust, Anchor, Solidity, React, Next, TypeScript, Javascript. </h2>
+<p align="center">Working in Solana ,Eth , Rust, Zero Knowledge Protocol.</p>
+<p align="center">Has proficiency in Rust, Anchor, Solidity, React, Next, TypeScript, Javascript. </p>
 
 - 📫 How to reach me **lujachitrakar156@gmail.com**
 
