@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Luja Chitrakar</h1>
-<h3 align="center">A Rust developer building in Solana.</h3>
-<p align="center">Expertise in Solana ,Eth , Rust, Zero Knowledge Protocol.</p>
-<p align="center">Has proficiency in Rust, Anchor, Solidity, React, Next, TypeScript, Javascript. </p>
+<h3 align="left">I am Rust developer building in Solana.</h3>
+<p align="left">I have expertise in Solana ,Eth , Rust, Zero Knowledge Protocol.</p>
+<p align="left">I have proficiency in Rust, Anchor, Solidity, React, Next, TypeScript, Javascript. </p>
 
-- 📫 How to reach me **lujachitrakar156@gmail.com**
+- 📫 You can reach me at  **lujachitrakar156@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/luja-chitrakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/luja-chitrakar" height="30" width="40" /></a>
+  
 <a href="https://x.com/Lujadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/Lujadev" height="30" width="40" /></a>
 </p>
 
