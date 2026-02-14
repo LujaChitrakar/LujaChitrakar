@@ -3,7 +3,7 @@
 <p align="left">I have expertise in Solana ,Eth , Rust, Zero Knowledge Protocol.</p>
 <p align="left">I have proficiency in Rust, Anchor, Solidity, React, Next, TypeScript, Javascript. </p>
 
-- 📫 You can reach me at  **lujachitrakar156@gmail.com**
+You can reach me at  **lujachitrakar156@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
