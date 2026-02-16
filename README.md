@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Luja Chitrakar</h1>
+<h1 align="center">Hello 👋, I'm Luja Chitrakar</h1>
 <h3 align="left">I am Rust developer building in Solana.</h3>
 <p align="left">I have expertise in Solana ,Eth , Rust, Zero Knowledge Protocol.</p>
 <p align="left">I have proficiency in Rust, Anchor, Solidity, React, Next, TypeScript, Javascript. </p>
